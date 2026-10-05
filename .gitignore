@@ -1,0 +1,9 @@
+# 编译产物
+*.exe
+*.o
+
+# 参考资料（体积过大，不入库）
+了解CV和RoboMaster视觉组 （beta）.pdf
+
+# 本地编辑器配置
+.vscode/
